@@ -25,9 +25,13 @@ Multi-threading was used to enable the chat messenger application to handle mult
 RESULTS:
 
 - Homepage:
-![Home](https://github.com/mfahad960/Multi-Client-Chat-Application/main/home.png)
+
+![Home](https://github.com/mfahad960/Multi-Client-Chat-Application/blon/main/home.png)
+
 - See online status of other users:
+  
 ![Status](https://github.com/mfahad960/Multi-Client-Chat-Application/blob/main/online.png)
+
 - Groupchat:
 
 - Typing status visibility:
