@@ -48,6 +48,9 @@ CONCLUSION:
 In conclusion, the development of the chat messenger application was successfully completed using Python programming language, multi-threading, sockets, and TCP. The application features a user-friendly interface that supports messaging, file sharing, group chats, multimedia messaging, private chat, and real-time typing status updates. The multi-threading and TCP protocols ensure that the application is efficient, secure, and responsive. The application can be further improved with additional features and refinements, but overall, the successful implementation of the proposed methodology has resulted in the creation of a robust and user-friendly chat messenger application that is capable of efficiently facilitating real-time communication and file-sharing among multiple clients.
 
 REFERENCES:
+
 https://python.plainenglish.io/building-a-messaging-app-with-python-sockets-and-threads-1c110fc1c8c8
+
 https://www.makeuseof.com/start-creating-desktop-apps-in-python-with-the-tkinter-gui-library/
+
 J. Smith and M. Johnson, "Efficient and reliable chat application using Python and TCP," in IEEE International Conference on Computer Communications, San Francisco, CA, USA, Apr. 2019, pp. 123-128. 
