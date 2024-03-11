@@ -34,13 +34,15 @@ RESULTS:
 
 - Groupchat:
 
-![Group](https://github.com/mfahad960/Multi-Client-Chat-Application/blob/main/groupchat.png)
+![Group](https://github.com/mfahad960/Multi-Client-Chat-Application/blob/main/chat.png)
 
 - Typing status visibility:
 
 ![Status](https://github.com/mfahad960/Multi-Client-Chat-Application/blob/main/typing.png)
 
 - File/media sharing:
+
+![Media](https://github.com/mfahad960/Multi-Client-Chat-Application/blob/main/fileshare.png)
 
 CONCLUSION:
 In conclusion, the development of the chat messenger application was successfully completed using Python programming language, multi-threading, sockets, and TCP. The application features a user-friendly interface that supports messaging, file sharing, group chats, multimedia messaging, private chat, and real-time typing status updates. The multi-threading and TCP protocols ensure that the application is efficient, secure, and responsive. The application can be further improved with additional features and refinements, but overall, the successful implementation of the proposed methodology has resulted in the creation of a robust and user-friendly chat messenger application that is capable of efficiently facilitating real-time communication and file-sharing among multiple clients.
