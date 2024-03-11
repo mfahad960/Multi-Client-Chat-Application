@@ -26,7 +26,7 @@ RESULTS:
 
 - Homepage:
 
-![Home](https://github.com/mfahad960/Multi-Client-Chat-Application/blon/main/home.png)
+![Home](https://github.com/mfahad960/Multi-Client-Chat-Application/blob/main/home.png)
 
 - See online status of other users:
   
@@ -34,7 +34,11 @@ RESULTS:
 
 - Groupchat:
 
+![Group](https://github.com/mfahad960/Multi-Client-Chat-Application/blob/main/groupchat.png)
+
 - Typing status visibility:
+
+![Status](https://github.com/mfahad960/Multi-Client-Chat-Application/blob/main/typing.png)
 
 - File/media sharing:
 
