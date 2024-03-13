@@ -28,23 +28,28 @@ Multi-threading was used to enable the chat messenger application to handle mult
 
 - Homepage:
 
-![Home](https://github.com/mfahad960/Multi-Client-Chat-Application/blob/main/home.png)
+![image](https://github.com/mfahad960/Multi-Client-Chat-Application/assets/133112083/be34586a-f0ed-41db-aee3-c243bc865f46)
+
 
 - See online status of other users:
   
-![Status](https://github.com/mfahad960/Multi-Client-Chat-Application/blob/main/online.png)
+![image](https://github.com/mfahad960/Multi-Client-Chat-Application/assets/133112083/4baf11e6-785c-4b42-9d3c-84510886c9e5)
+
 
 - Groupchat:
 
-![Group](https://github.com/mfahad960/Multi-Client-Chat-Application/blob/main/chat.png)
+![image](https://github.com/mfahad960/Multi-Client-Chat-Application/assets/133112083/40c3fa1a-3dfc-4cbc-949a-f1e59fceb70d)
+
 
 - Typing status visibility:
 
-![Status](https://github.com/mfahad960/Multi-Client-Chat-Application/blob/main/typing.png)
+![image](https://github.com/mfahad960/Multi-Client-Chat-Application/assets/133112083/667f28e2-8811-458a-a872-6ff2effc34ff)
+
 
 - File/media sharing:
 
-![Media](https://github.com/mfahad960/Multi-Client-Chat-Application/blob/main/fileshare.png)
+![image](https://github.com/mfahad960/Multi-Client-Chat-Application/assets/133112083/89cb2ae7-264c-474a-affa-2fa5c14c427b)
+
 
 **CONCLUSION:**
 
