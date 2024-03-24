@@ -2,7 +2,7 @@
 
 **ABSTRACT:**
 
-The proposed chat messenger application is a multi-user platform that is designed to meet the growing communication needs of today's world. With the increasing reliance on digital mediums, it is crucial to have a messenger app that can cater to the needs of multiple users. The app is designed to offer a seamless experience for its users, with features such as file sharing, group chat, and multimedia support. These features allow users to communicate efficiently and effectively in real-time, making it an essential tool for both personal and professional use. The proposed chat messenger application is a reliable, efficient, and user-friendly platform that caters to the growing communication needs of multiple users. With features like file sharing, group chat, and multimedia support, the app provides a seamless communication experience for both personal and professional use.
+The proposed application is developed using for sockets in python to allow for message transfer between two or more users, along with file transfer and visible online status. The user interface was implemented using Tkinter in python.
 
 **FUNCTIONALITIES:**
 - The app has a user-friendly interface that is easy to navigate, making it accessible to users of all ages and technical backgrounds.
